@@ -1,6 +1,6 @@
 # <h1 align="center">⌨ Houssam El Masoudi 🖱</h1> 
   
-  <h2 align="center">I'm a WEB developper and Computer && Networks engineering major!</h2>
+  <h2 align="center">I'm a WEB developper && Computer and Networks engineering major!</h2>
   
   ![this is an image](https://i.imgur.com/K8CeDwj.png) <br>
   
