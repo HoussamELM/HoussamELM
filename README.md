@@ -1,6 +1,6 @@
 <h3 align="center">⌨ Houssam El Masoudi 🖱</h3> 
   
- **`Digital Craftsman`**
+ **`Digital Craftsman` (Full-stack)**
  
 Software and networks engineering major && Full-stack Web developer. I spend my time learning new things, creating clean websites and components to help businesses build seamless relationships with their customers.
 
