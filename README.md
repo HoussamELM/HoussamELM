@@ -9,7 +9,7 @@ My deep interest in both **Business** and **Web developement** makes me extremel
 
 Business email: Houssam@rank.ma
 <br>
-Phone - Morocco: [phone]:+212 619 834 123
+Phone - Morocco: [+212 619 834 123](tel:+212619834123)
 <br>
 Phone - US: *
 
