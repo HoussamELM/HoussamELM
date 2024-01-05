@@ -1,8 +1,9 @@
 <h3 align="center">⌨ Houssam El Masoudi 🖱</h3> 
   
- **`Results driven SEO EXPERT`**
+ **`Results driven SEO EXPERT - CRO Oriented dev`**
  
-I use my skills in web-dev, SEO and business to help businesses improve their social presence<br> thus making them more 💰<br>
+I help businesses make more 💰💰💰<br>
+My skills in both business and web-dev make me extremely efficient at it.
 
 ### 🧰 Languages and Tools
 
