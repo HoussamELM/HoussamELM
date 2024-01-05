@@ -1,9 +1,15 @@
-<h3 align="left">Houssam El Masoudi </h3> 
+<h3 align="left">Houssam El Masoudi </h3>
   
  **`Results driven SEO EXPERT - CRO Oriented dev`**
  
 I help businesses make more 💰💰💰<br>
 My deep interest in both **Business** and **Web developement** makes me extremely efficient at it.
+
+### Contact info:
+
+Business email: <a href="mailto:Houssam@rank.ma">Houssam@rank.ma</a>
+Phone - Morocco: <a href="tel:+212619834123">+212 619 834 123</a>
+Phone - US: *
 
 ### 🧰 Languages and Tools
 
