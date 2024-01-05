@@ -9,7 +9,7 @@ My deep interest in both **Business** and **Web developement** makes me extremel
 
 Business email: <a href="mailto:Houssam@rank.ma">Houssam@rank.ma</a>
 <br>
-Phone - Morocco: <a href="tel:+212619834123">+212 619 834 123</a>
+Phone - Morocco: <a href="tel:212619834123">+212 619 834 123</a>
 <br>
 Phone - US: *
 
