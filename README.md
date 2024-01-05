@@ -1,9 +1,8 @@
 <h3 align="center">⌨ Houssam El Masoudi 🖱</h3> 
   
- **`SEO EXPERT`**
+ **`Results driven SEO EXPERT`**
  
-I use my skills in web-dev and business to help businesses improve their social presence, thus making more 💰
----
+I use my skills in web-dev, SEO and business to help businesses improve their social presence<br> thus making them more 💰<br>
 
 ### 🧰 Languages and Tools
 
