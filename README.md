@@ -22,9 +22,4 @@ I use my skills in web-dev, SEO and business to help businesses improve their so
 
 [![wakatime](https://wakatime.com/badge/user/23d940d1-4dee-4240-9d62-437416152cb4.svg)](https://wakatime.com/@23d940d1-4dee-4240-9d62-437416152cb4)
 
-### 📊 Stats
-
-![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=houssamelm&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
