@@ -3,7 +3,7 @@
  **`Results driven SEO EXPERT - CRO Oriented dev`**
  
 I help businesses make more 💰💰💰<br>
-My skills in both **business** and **web-dev** make me extremely efficient at it.
+My deep interest in both **Business** and **Web developement** makes me extremely efficient at it.
 
 ### 🧰 Languages and Tools
 
