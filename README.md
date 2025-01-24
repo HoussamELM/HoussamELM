@@ -1,13 +1,13 @@
 <h3 align="left">Houssam El Masoudi </h3>
   
- **`Results driven SEO EXPERT - CRO Oriented dev`**
+ **`Results driven SEO & CRO EXPERT - Owner of saypixel LLC`**
  
-I help businesses make more 💰💰💰<br>
-My deep interest in both **Business** and **Web developement** makes me extremely efficient at it.
+We help businesses make more 💰💰💰with effective web design and marketing<br>
+
 
 ### Contact info:
 
-Business email: Houssam@rank.ma
+Business email: Houssam@saypixel.com
 <br>
 Phone - Morocco: [+212-619-834-123](tel:+212619834123)
 <br>
